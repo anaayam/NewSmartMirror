@@ -1,0 +1,3 @@
+[submodule "dlib"]
+	path = dlib
+	url = https://github.com/bugsounet/MMM-GoogleAssistant/wiki
