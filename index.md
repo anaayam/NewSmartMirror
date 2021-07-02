@@ -13,6 +13,7 @@ My final milestone was finalizing the composition of the mirror. I made the spot
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 ![Image](SpotifyConfig.png)
+
 <small>This is some of the code from my Spotify Configuration file where I was able to adjust the size of the API and what type of display I wanted. I set the style to mini so it would fit better within the mirror and not obstruct the time module.</small>
 
 # Second Milestone
@@ -21,6 +22,7 @@ My second milestone is being able to take pictures and adding a two way mirror. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YkLiQdUwaio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Image](ConfigFile.png)
+
 <small>This is an example of the default configurations for spotify and alarms. Since I wrote in the position as "Bottom_left" it'll display in that corner and adjust according to the display size. For the alert API, there isn't any options to adjust it because the module doesn't display on the screen but will still be on in the background.</small>
 
 # First Milestone
