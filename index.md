@@ -21,10 +21,12 @@ My second milestone is being able to take pictures and adding a two way mirror. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YkLiQdUwaio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Image](ConfigFile.png)
-<figcaption>This is an example of the default configurations for spotify and alarms. Since I wrote in the position as "Bottom_left" it'll display in that corner and adjust according to the display size. For the alert API, there isn't any options to adjust it because the module doesn't display on the screen but will still be on in the background.</figcaption>
+<a>This is an example of the default configurations for spotify and alarms. Since I wrote in the position as "Bottom_left" it'll display in that corner and adjust according to the display size. For the alert API, there isn't any options to adjust it because the module doesn't display on the screen but will still be on in the background.</a>
 
 # First Milestone
 My first milestone was setting up the raspberry pi. To do this, I used an SD card to download the raspbian software from the website and then connect the card to the raspberry pi. Then, I downloaded all the basic code for the Magic Mirror from the github website. I deleted any features that I didn’t want on the mirror, including the calendar and US holiday modules, from the configuration file. Additionally, I added touchscreen and camera capabilities by adding the downloaded code to the modules folder. After that, I adjusted the compositions of the icons on the magic mirror through the configuration file by editing the position and then sizing so everything fit. 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-aOUHmi5NIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="a">xx-small</div>
