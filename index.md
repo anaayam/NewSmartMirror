@@ -5,7 +5,7 @@ My project is a Smart Mirror powered by raspberry pi. It has Spotify, camera, we
 |:--:|:--:|:--:|:--:|
 | Anaaya M | Dougherty Valley High School | Electrical Engineering | Incoming Sophmore |
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](SmartMirrorModel.png)
   
 # Final Milestone
 My final milestone was finalizing the composition of the mirror. I made the spotify API smaller so that it wouldn’t cover up the time module while music was playing. I did this by changing the type of player from the default to a mini version of it through the configuration file. Additionally, I changed the time module from a 24-hour clock to a 12-hour so that it’s easier to read. I also attached a microphone so that Spotify could play through there instead of an outside speaker. 
