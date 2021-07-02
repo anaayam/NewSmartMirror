@@ -13,7 +13,7 @@ My final milestone was finalizing the composition of the mirror. I made the spot
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 ![Image](SpotifyConfig.png)
-This is some of the code from my Spotify Configuration file where I was able to adjust the size of the API and what type of display I wanted. I set the style to mini so it would fit better within the mirror and not obstruct the time module.
+<a>This is some of the code from my Spotify Configuration file where I was able to adjust the size of the API and what type of display I wanted. I set the style to mini so it would fit better within the mirror and not obstruct the time module.</a>
 
 # Second Milestone
 My second milestone is being able to take pictures and adding a two way mirror. To add the camera feature, I downloaded the module from a github website and added it to my SmartMirror folder. After that, I had to install the camera by inserting it into the camera slot, which is between Ethernet and HDMI Port. To test it out, I used the command raspistill -o cam.jpg and that displayed what my camera was pointed at onto the screen. For the two way mirror, I used a box cutter to score it after measuring the dimensions and marking it. Then, I was able to break it by folding the mirror on the mark. I used double sided tape to secure it to the monitor, so the mirror would still be removable.
