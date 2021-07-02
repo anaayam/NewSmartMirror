@@ -1,9 +1,9 @@
 ﻿# Smart Mirror
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+My project is a Smart Mirror powered by raspberry pi. It has Spotify, camera, weather, and time APIs. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Anaaya M | Dougherty Valley High School | Electrical Engineering | Incoming Sophmore
+| Anaaya M | Dougherty Valley High School | Electrical Engineering | Incoming Sophmore |
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
@@ -19,7 +19,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up the raspberry pi. To do this, I used an SD card to download the raspbian software from the website and then connect the card to the raspberry pi. Then, I downloaded all the basic code for the Magic Mirror from the github website. I deleted any features that I didn’t want on the mirror, including the calendar and US holiday modules, from the configuration file. Additionally, I added touchscreen, camera, and spotify capabilities by adding the downloaded code to the modules folder. After that, I adjusted the compositions of the icons on the magic mirror through the configuration file by editing the position and then sizing so everything fit. 
+My first milestone was setting up the raspberry pi. To do this, I used an SD card to download the raspbian software from the website and then connect the card to the raspberry pi. Then, I downloaded all the basic code for the Magic Mirror from the github website. I deleted any features that I didn’t want on the mirror, including the calendar and US holiday modules, from the configuration file. Additionally, I added touchscreen and camera capabilities by adding the downloaded code to the modules folder. After that, I adjusted the compositions of the icons on the magic mirror through the configuration file by editing the position and then sizing so everything fit. 
 
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=-aOUHmi5NIQ "First Milestone"){:target="_blank" rel="noopener"}
