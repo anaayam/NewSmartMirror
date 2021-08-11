@@ -6,11 +6,16 @@ My project is a Smart Mirror powered by raspberry pi. It has Spotify, camera, we
 | Anaaya M | Dougherty Valley High School | Electrical Engineering | Incoming Sophmore |
 
 ![Headstone Image](SmartMirrorModel.png)
-  
+
+# Demo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OvOiLL-O-Ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Final Milestone
 My final milestone was finalizing the composition of the mirror. I made the spotify API smaller so that it wouldn’t cover up the time module while music was playing. I did this by changing the type of player from the default to a mini version of it through the configuration file. Additionally, I changed the time module from a 24-hour clock to a 12-hour so that it’s easier to read. I also attached a microphone so that Spotify could play through there instead of an outside speaker. Although my Alexa module didn't work, it is still able to detect the wakeword through MMM-Detector.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jwqC-7OpOLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Image](SpotifyConfig.png)
 
