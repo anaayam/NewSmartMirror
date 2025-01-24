@@ -1,7 +1,7 @@
 "use strict";
 
 // Use separate scope to prevent global scope pollution
-(function () {
+(function () { 
 	var config = {};
 
 	/**
