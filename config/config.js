@@ -5,7 +5,7 @@
  *
  * For more information on how you can configure this file
  * See https://github.com/MichMich/MagicMirror#configuration
- *
+ * 
  */
 
 var config = {
