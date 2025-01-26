@@ -1,5 +1,5 @@
 /* global NotificationFx */
-
+ 
 /* Magic Mirror
  * Module: alert
  *
