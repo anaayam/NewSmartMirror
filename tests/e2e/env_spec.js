@@ -9,7 +9,7 @@ const afterEach = global.afterEach;
 
 describe("Electron app environment", function () {
 	helpers.setupTimeout(this);
-
+ 
 	var app = null;
 
 	before(function () {
