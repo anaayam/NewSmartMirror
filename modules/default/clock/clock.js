@@ -1,5 +1,5 @@
 /* global SunCalc */
-
+ 
 /* Magic Mirror
  * Module: Clock
  *
