@@ -12,7 +12,7 @@ type ModuleProperties = {
   getStyles?(): string[],
   [key: string]: any,
 };
-
+ 
 export declare const Module: {
   register(moduleName: string, moduleProperties: ModuleProperties): void;
 };
