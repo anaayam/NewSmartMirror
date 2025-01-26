@@ -6,3 +6,4 @@ app.start(function (config) {
 	var httpType = config.useHttps ? "https" : "http";
 	Log.log("\nReady to go! Please point your browser to: " + httpType + "://" + bindAddress + ":" + config.port);
 });
+ 
