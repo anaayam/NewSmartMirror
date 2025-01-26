@@ -1,5 +1,5 @@
 /* global Class, xyz */
-
+ 
 /* Simple JavaScript Inheritance
  * By John Resig https://johnresig.com/
  *
